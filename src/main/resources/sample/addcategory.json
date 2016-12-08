@@ -1,0 +1,11 @@
+{
+  "action": "com.singtel.inbox.action.impl.CreateCategoryAction",
+  "body": {
+    "name": "Notice",
+    "description": "this is an request sample",
+    "icon": "Notice.png",
+    "order": 0,
+    "color": "red",
+    "purgeDays": -1
+  }
+}

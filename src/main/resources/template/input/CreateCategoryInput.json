@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Create Category Input",
+  "type": "object",
+  "properties": {
+    "action": {
+      "type": "string"
+    },
+    "body": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "icon": {
+          "type": "string"
+        },
+        "order": {
+          "type": "number"
+        },
+        "color": {
+          "type": "string"
+        },
+        "purgeDays": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Read Message Request",
+  "type": "object",
+  "properties": {
+    "readStatus": {
+      "type": "boolean"
+    }
+  }
+}

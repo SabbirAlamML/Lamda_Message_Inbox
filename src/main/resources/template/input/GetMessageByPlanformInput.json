@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Get Message Platform Input",
+  "type": "object",
+  "properties": {
+    "action": {
+      "type": "string"
+    },
+    "body": {
+      "type": "object",
+      "properties": {
+        "accounts": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "platform": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

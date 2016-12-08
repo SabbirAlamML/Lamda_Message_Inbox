@@ -1,0 +1,144 @@
+{
+  "action": "CreateMessageAction",
+  "body": [
+    {
+      "account": "99965922",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965922 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965922",
+      "eventEndDate": 1480580520000,
+      "platformList": [
+        "mysingtelapp"
+      ]
+    },
+    {
+      "account": "99965922",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965922 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965922",
+      "eventEndDate": 1480580520000,
+      "groupingIndex": "22222222",
+      "platformList": [
+        "mysingtelapp"
+      ]
+    },
+    {
+      "account": "99965923",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965923 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965923",
+      "eventEndDate": 1480580520000,
+      "groupingIndex": "22222222",
+      "platformList": [
+        "mysingtelapp"
+      ]
+    },
+    {
+      "account": "99965924",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965924 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965924",
+      "eventEndDate": 1480580520000,
+      "groupingIndex": "22222222",
+      "platformList": [
+        "mysingtelapp"
+      ]
+    },
+    {
+      "account": "99965926",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965926 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965926",
+      "eventEndDate": 1480580520000,
+      "groupingIndex": "22222222",
+      "platformList": [
+        "mysingtelapp"
+      ]
+    },
+    {
+      "account": "99965927",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965927 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965927",
+      "eventEndDate": 1480580520000,
+      "groupingIndex": "22222222",
+      "platformList": [
+        "mysingtelapp"
+      ]
+    },
+    {
+      "account": "99965928",
+      "sendDate": 1453444350699,
+      "categoryId": "1d151bca-39e2-4bdf-80a5-817160deb910",
+      "subject": "This is a 99965928 message1",
+      "from": "MySingtel App",
+      "summary": "this is message summary, you can see something intersting inside...",
+      "content": "三五瓶，逼两拳，老哥还会军体拳<br/>留卡号，心意钱，打多打少是个缘<br/>撸小贷，支付宝，老哥稳如坟头草<br/>我借钱，靠实力，借来哪有还钱理",
+      "contentType": "text",
+      "referenceId": "1234567890",
+      "priority": 2,
+      "badgeIcon": "icon.png",
+      "accountPrefix": "mobile",
+      "accountNumber": "99965928",
+      "eventEndDate": 1480580520000,
+      "groupingIndex": "22222222",
+      "platformList": [
+        "mysingtelapp"
+      ]
+    }
+  ]
+}

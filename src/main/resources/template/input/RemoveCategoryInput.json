@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Remove Category Input",
+  "type": "object",
+  "properties": {
+    "action": {
+      "type": "string"
+    },
+    "body": {
+      "type": "object",
+      "properties": {
+        "categoryId": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
